@@ -26,5 +26,9 @@ int main() {
       }
     }
  }
+while (/* condition */)
+{
+  /* code */
+}
 
   
