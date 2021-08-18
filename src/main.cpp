@@ -25,6 +25,10 @@ int main() {
          led = 0;
       }
     }
+while (/* condition */)
+{
+  /* code */
+}
  }
 while (/* condition */)
 {
