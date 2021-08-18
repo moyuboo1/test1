@@ -1,7 +1,7 @@
 #include <mbed.h>
 
 DigitalOut pin1(D13)
-
+//こんにちは
 
 int main() {
   while(1) {
